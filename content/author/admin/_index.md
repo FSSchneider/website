@@ -28,7 +28,7 @@ interests = [
 # List qualifications (such as academic degrees)
 [[education.courses]]
   course = "PhD in Computer Science"
-  institution = "University of Tuebingen"
+  institution = "University of Tübingen"
   year = "2017-2020"
 
 [[education.courses]]
