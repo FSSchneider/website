@@ -106,4 +106,18 @@ Supervision: Michiel Hochstenbach, Ph.D., TU/e."""
   date_end = "2017-05-31"
   description = """European Workshop on High Order Nonlinear
 Numerical Methods for Evolutionary PDEs. """
+
+[[experience]]
+  title = "PhD"
+  company = "University of Tübingen"
+  company_url = ""
+  location = "Tübingen"
+  date_start = "2017-09-01"
+  date_end = ""
+  description = """Working on “Automating Deep Learning Optimization” at
+the Max Planck Institute for Intelligent Systems and the
+University of Tuebingen in the International Max Planck Research School for
+Intelligent Systems (IMPRS-IS).
+Supervisor: Prof. Dr. Philipp Hennig """
+
 +++
