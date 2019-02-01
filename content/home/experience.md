@@ -25,7 +25,20 @@ date_format = "January 2006"
   location = "Gerlingen"
   date_start = "2001-09-01"
   date_end = "2010-07-01"
-  description = """ """
+  description = """Accolades of the parent’s council for outstanding commitment
+and of the German Physics Society (DPG) for very
+good performance in the physics compartment.
+In 2007: Stay abroad for six month in Australia at the
+Robina State High School, Gold Coast."""
+
+[[experience]]
+  title = "Civilian Service"
+  company = "Barmherzige Brüder"
+  company_url = ""
+  location = "Munich"
+  date_start = "2010-09-01"
+  date_end = "2011-03-01"
+  description = """Working in the area of occupational and physical therapy."""
 
 [[experience]]
   title = "Bachelor's Degree"
@@ -42,5 +55,55 @@ Institute for Industrial Engineering with the title
 model simulating warning dissemination”.
 Supervision: Prof. Dr. Albrecht Schmidt"""
 
+[[experience]]
+  title = "Student Assistant"
+  company = "IAT University of Stuttgart"
+  company_url = ""
+  location = "Stuttgart"
+  date_start = "2014-10-01"
+  date_end = "2015-05-01"
+  description = """Analysis, evaluation and optimization of an agent-based
+warning dissemination model. Support for the round
+table at the Fraunhofer IAO about research in civil protection."""
 
+[[experience]]
+  title = "Double Master's Degree"
+  company = "University of Stuttgart and TU/e Eindhoven"
+  company_url = ""
+  location = "Stuttgart and Eindhoven"
+  date_start = "2015-07-01"
+  date_end = "2017-01-01"
+  description = """Focus on numerics and mathematical applications.
+Master’s thesis at ASML with the title
+“Approximation of Inverses of BTTB Matrices for
+Preconditioning Applications”.
+Supervision: Michiel Hochstenbach, Ph.D., TU/e."""
+
+[[experience]]
+  title = "Internship"
+  company = "ASML"
+  company_url = ""
+  location = "Eindhoven"
+  date_start = "2016-04-11"
+  date_end = "2016-10-11"
+  description = """Working on preconditioners for large linear systems. """
+
+[[experience]]
+  title = "Research Assistant"
+  company = "IADM University of Stuttgart"
+  company_url = ""
+  location = "Stuttgart"
+  date_start = "2017-03-01"
+  date_end = "2017-03-31"
+  description = """Tutor for programming course for MATLAB and C++. """
+
+[[experience]]
+  title = "Research Assistant"
+  company = "IAG University of Stuttgart"
+  company_url = ""
+  location = "Stuttgart"
+  date_start = "2017-05-01"
+  date_end = "2017-05-31"
+  description = """European Workshop on High Order Nonlinear
+Numerical Methods for Evolutionary PDEs. """
 +++
