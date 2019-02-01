@@ -3,7 +3,7 @@
 widget = "accomplishments"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Accomplish&shy;ments"
+title = "Online Courses"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -20,27 +20,33 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  title = "Neural Networks and Deep Learning"
+  title = "Machine Learning (Stanford University)"
   organization = "Coursera"
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = ""
+  date_start = "2016-10-01"
   date_end = ""
   description = ""
 
 [[item]]
-  title = "Blockchain Fundamentals"
-  organization = "edX"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = ""
-  
+  title = "Convolutional Neural Networks for Visual Recognition (CS231n, Stanford University)"
+  organization = "Stanford University"
+  certificate_url = ""
+  date_start = "2016-10-01"
+  description = "Self-study"
+
 [[item]]
-  title = "Intro to Python"
-  organization = "DataCamp"
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  title = "Tensorflow for Deep Learning Research (CS20SI, Stanford University)"
+  organization = "Stanford University"
+  certificate_url = ""
+  date_start = "2017-03-01"
+  description = "Self-study"
+
+[[item]]
+  title = "Data Structures & Algorithms in Python"
+  organization = "Udacity"
+  certificate_url = ""
+  date_start = "2018-10-01"
+  date_end = ""
   description = ""
 
 +++
