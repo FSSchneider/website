@@ -25,7 +25,13 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2018-10-15"
   date_end = "2019-02-13"
-  description = ""
+  description = "Lecture course by Prof. Dr. Philipp Hennnig on probabilistic
+machine learning including:
+- Probability Theory
+- Graphical Models
+- Gaussian Processes
+- Sampling Methods
+"
 
 [[item]]
   title = "Programming Course for MATLAB and C++"
@@ -33,6 +39,6 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2017-03-01"
   date_end = "2017-03-10"
-  description = "Self-study"
+  description = "Block course introduction the basics of programming in both MATLAB and C++."
 
 +++

@@ -53,6 +53,7 @@ Bachelor’s thesis in cooperation with the Fraunhofer
 Institute for Industrial Engineering with the title
 “Analysis, evaluation and optimization of an agent-based
 model simulating warning dissemination”.
+
 Supervision: Prof. Dr. Albrecht Schmidt"""
 
 [[experience]]
@@ -77,6 +78,7 @@ table at the Fraunhofer IAO about research in civil protection."""
 Master’s thesis at ASML with the title
 “Approximation of Inverses of BTTB Matrices for
 Preconditioning Applications”.
+
 Supervision: Michiel Hochstenbach, Ph.D., TU/e."""
 
 [[experience]]
@@ -118,6 +120,7 @@ Numerical Methods for Evolutionary PDEs. """
 the Max Planck Institute for Intelligent Systems and the
 University of Tuebingen in the International Max Planck Research School for
 Intelligent Systems (IMPRS-IS).
+
 Supervisor: Prof. Dr. Philipp Hennig """
 
 +++
