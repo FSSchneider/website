@@ -63,7 +63,7 @@ appointment_url = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/frankstefansch1"},
+  {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/frankstefansch1"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
@@ -86,7 +86,7 @@ map = 2
 map_api_key = ""
 latitude = "48.535641"
 longitude = "9.058208"
-zoom = 17
+zoom = 16
 
 ############################
 ## Plugins                ##
