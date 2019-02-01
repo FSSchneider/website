@@ -3,7 +3,7 @@
 widget = "experience"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Experience"
+title = "Education & Experience"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -19,27 +19,28 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Abitur"
+  company = "Robert-Bosch-Gymnasium"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  location = "Gerlingen"
+  date_start = "2001-09-01"
+  date_end = "2010-07-01"
+  description = """ """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Bachelor's Degree"
+  company = "University of Stuttgart"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Stuttgart"
+  date_start = "2011-10-01"
+  date_end = "2015-07-01"
+  description = """Focus on a broad education in mathematics,
+engineering, computer & natural science.
+Bachelor’s thesis in cooperation with the Fraunhofer
+Institute for Industrial Engineering with the title
+“Analysis, evaluation and optimization of an agent-based
+model simulating warning dissemination”.
+Supervision: Prof. Dr. Albrecht Schmidt"""
+
 
 +++
