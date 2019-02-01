@@ -19,7 +19,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "In *International Conference on Learning Representations (ICLR) 2019*."
-publication_short = "In *ICLR 2019*"
+publication_short = "In *ICLR*"
 
 # Abstract and optional shortened version.
 abstract = "Because the choice and tuning of the optimizer affects the speed, and ultimately the performance of deep learning, there is significant past and recent research in this area. Yet, perhaps surprisingly, there is no generally agreed-upon protocol for the quantitative and reproducible evaluation of optimization strategies for deep learning. We suggest routines and benchmarks for stochastic optimization, with special focus on the unique aspects of deep learning, such as stochasticity, tunability and generalization. As the primary contribution, we present DeepOBS, a Python package of deep learning optimization benchmarks. The package addresses key challenges in the quantitative assessment of stochastic optimizers, and automates most steps of benchmarking. The library includes a wide and extensible set of ready-to-use realistic optimization problems, such as training Residual Networks for image classification on ImageNet or character-level language prediction models, as well as popular classics like MNIST and CIFAR-10. The package also provides realistic baseline results for the most popular optimizers on these test problems, ensuring a fair comparison to the competition when benchmarking new optimizers, and without having to run costly experiments. It comes with output back-ends that directly produce LaTeX code for inclusion in academic publications. It is written in TensorFlow and available open source."
@@ -43,16 +43,16 @@ tags = []
 url_pdf = "https://uni-tuebingen.de/index.php?eID=tx_securedownloads&p=134446&u=0&g=0&t=1549658707&hash=e71893f7ab2db201a9230b608e948326c27ad912&file=/fileadmin/Uni_Tuebingen/Fakultaeten/MatNat/Fachbereiche/Informatik/Lehrstuehle/MethMaschLern/Dokumente/paper_pdf/Schneider19a.pdf"
 url_preprint = "https://openreview.net/pdf?id=rJg6ssC5Y7"
 url_code = "https://github.com/anonymousICLR2019submitter/deepobs"
-url_dataset = "#"
-url_project = "https://openreview.net/forum?id=rJg6ssC5Y7"
-url_slides = "#"
-url_video = "#"
-url_poster = "#"
-url_source = "#"
+#url_dataset = "#"
+#url_project = "https://openreview.net/forum?id=rJg6ssC5Y7"
+#url_slides = "#"
+#url_video = "#"
+#url_poster = "#"
+#url_source = "#"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "OpenReview", url = "https://openreview.net/forum?id=rJg6ssC5Y7"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
@@ -68,5 +68,5 @@ math = true
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
+  focal_point = "Smart"
 +++
