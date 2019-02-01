@@ -1,20 +1,38 @@
 +++
-# Custom widget.
-# An example of using the custom widget to create your own homepage section.
-# To create more sections, duplicate this file and edit the values below as desired.
-widget = "custom"
-active = true
-date = 2016-04-20T00:00:00
+# Accomplishments widget.
+widget = "accomplishments"  # Do not modify this line!
+active = true  # Activate this widget? true/false
 
-# Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Custom Section"
+title = "Teaching"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 60
+weight = 15
+
+# Date format
+#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
+date_format = "Jan 2006"
+
+# Accomplishments.
+#   Add/remove as many `[[item]]` blocks below as you like.
+#   `title`, `organization` and `date_start` are the required parameters.
+#   Leave other parameters empty if not required.
+#   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[item]]
+  title = "Probabilistic Inference and Learning"
+  organization = "University of Tübingen"
+  certificate_url = ""
+  date_start = "2018-10-15"
+  date_end = "2019-02-13"
+  description = ""
+
+[[item]]
+  title = "Programming Course for MATLAB and C++"
+  organization = "University of Stuttgart"
+  certificate_url = ""
+  date_start = "2017-03-01"
+  date_end = "2017-03-10"
+  description = "Self-study"
 
 +++
-
-This is an example of using the *custom* widget to create your own homepage section.
-
-To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`.
