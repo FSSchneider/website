@@ -43,7 +43,7 @@ tags = []
 # Links (optional).
 url_pdf = "https://uni-tuebingen.de/index.php?eID=tx_securedownloads&p=134446&u=0&g=0&t=1549658707&hash=e71893f7ab2db201a9230b608e948326c27ad912&file=/fileadmin/Uni_Tuebingen/Fakultaeten/MatNat/Fachbereiche/Informatik/Lehrstuehle/MethMaschLern/Dokumente/paper_pdf/Schneider19a.pdf"
 url_preprint = "https://openreview.net/pdf?id=rJg6ssC5Y7"
-url_code = "https://github.com/anonymousICLR2019submitter/deepobs"
+url_code = "https://github.com/fsschneider/deepobs"
 #url_dataset = "#"
 #url_project = "https://openreview.net/forum?id=rJg6ssC5Y7"
 #url_slides = "#"
@@ -53,7 +53,7 @@ url_code = "https://github.com/anonymousICLR2019submitter/deepobs"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "OpenReview", url = "https://openreview.net/forum?id=rJg6ssC5Y7"}]
+url_custom = [{name = "OpenReview", url = "https://openreview.net/forum?id=rJg6ssC5Y7"}, {name = "Documentation", url = "https://deepobs.readthedocs.io/"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
