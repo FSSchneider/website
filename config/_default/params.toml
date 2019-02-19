@@ -51,8 +51,8 @@ time_format = "15:04"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "frank.schneider@tuebingen.mpg.de"
-phone = "+49 7071 601 588"
-address = "Office: S2.018, Max Planck Institute for Intelligent Systems, Max-Planck-Ring 4, 72076 Tübingen, Germany"
+phone = "+49 7071 29 70857"
+address = "Office: Maria-von-Linden-Straße 6, 2. OG, Raum 20-28/A24, 72076 Tübingen.Germany"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""
