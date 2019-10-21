@@ -41,7 +41,7 @@ featured = true
 tags = []
 
 # Links (optional).
-url_pdf = "https://uni-tuebingen.de/index.php?eID=tx_securedownloads&p=134446&u=0&g=0&t=1549658707&hash=e71893f7ab2db201a9230b608e948326c27ad912&file=/fileadmin/Uni_Tuebingen/Fakultaeten/MatNat/Fachbereiche/Informatik/Lehrstuehle/MethMaschLern/Dokumente/paper_pdf/Schneider19a.pdf"
+url_pdf = "https://uni-tuebingen.de/index.php?eID=tx_securedownloads&p=134446&u=0&g=0&t=1560000706&hash=05bff9a3e20648fd88d931369ab7fc4c589ee17f&file=/fileadmin/Uni_Tuebingen/Fakultaeten/MatNat/Fachbereiche/Informatik/Lehrstuehle/MethMaschLern/Dokumente/paper_pdf/Schneider19a.pdf"
 url_preprint = "https://arxiv.org/abs/1903.05499"
 url_code = "https://github.com/fsschneider/deepobs"
 #url_dataset = "#"
