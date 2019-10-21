@@ -20,7 +20,23 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  title = "Probabilistic Inference and Learning"
+  title = "Software Practical - Bundesliga Prediction - WS 2019/2020"
+  organization = "University of Tübingen"
+  certificate_url = ""
+  date_start = "2019-10-14"
+  date_end = "2020-02-08"
+  description = "Software practical where students should create an app that can predict the results of Bundesliga matches using historical data and machine learning algorithms."
+
+[[item]]
+  title = "Software Practical - Bundesliga Prediction - SS 2019"
+  organization = "University of Tübingen"
+  certificate_url = ""
+  date_start = "2019-04-15"
+  date_end = "2019-07-27"
+  description = "Software practical where students should create an app that can predict the results of Bundesliga matches using historical data and machine learning algorithms."
+
+[[item]]
+  title = "Probabilistic Inference and Learning - WS 2018/2019"
   organization = "University of Tübingen"
   certificate_url = ""
   date_start = "2018-10-15"
