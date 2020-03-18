@@ -66,13 +66,18 @@ interests = [
 
 [[social]]
   icon = "envelope"
-  icon_pack = "fas"
+  icon_pack = "far"
   link = "mailto:frank.schneider@tuebingen.mpg.de"
 
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
   link = "https://twitter.com/frankstefansch1"
+  
+[[social]]
+  icon = "semantic-scholar"
+  icon_pack = "ai"
+  link = "https://www.semanticscholar.org/author/Frank-Schneider/144223390"
 
 [[social]]
   icon = "google-scholar"
