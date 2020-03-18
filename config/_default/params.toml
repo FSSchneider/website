@@ -12,7 +12,7 @@ day_night = true
 font = "default"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Academic website, Frank Schneider, Methods of Machine Learning, University of Tuebingen"
+description = "Academic website, Frank Schneider, Methods of Machine Learning, University of Tübingen"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = ""
@@ -52,7 +52,7 @@ time_format = "15:04"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "frank.schneider@tuebingen.mpg.de"
 phone = "+49 7071 29 70857"
-address = "Office: Maria-von-Linden-Straße 6, 2. OG, Raum 20-28/A24, 72076 Tuebingen.Germany"
+address = "Office: Maria-von-Linden-Straße 6, 2. OG, Raum 20-28/A24, 72076 Tübingen, Germany"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""
