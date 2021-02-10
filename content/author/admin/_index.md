@@ -21,7 +21,7 @@ email = ""
 # List (academic) interests or hobbies
 interests = [
   "Deep Learning",
-  "(Stochastic) Optimization"
+  "(Stochastic) Optimization",
   "Artificial Intelligence",
 ]
 
