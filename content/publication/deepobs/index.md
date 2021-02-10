@@ -26,7 +26,7 @@ abstract = "Because the choice and tuning of the optimizer affects the speed, an
 abstract_short = "We provide a software package that drastically simplifies, automates, and improves the evaluation of deep learning optimizers."
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

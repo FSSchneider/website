@@ -1,0 +1,73 @@
++++
+title = "Descending through a Crowded Valley - Benchmarking Deep Learning Optimizers"
+date = 2020-07-01T00:00:00
+draft = false
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["Robin M. Schmidt", "Frank Schneider", "Philipp Hennig"]
+
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference paper
+# 2 = Journal article
+# 3 = Manuscript
+# 4 = Report
+# 5 = Book
+# 6 = Book section
+publication_types = ["0"]
+
+# Publication name and optional abbreviated version.
+<!-- publication = "In *International Conference on Learning Representations (ICLR) 2019*."
+publication_short = "In *ICLR*" -->
+
+# Abstract and optional shortened version.
+abstract = "Choosing the optimizer is considered to be among the most crucial design decisions in deep learning, and it is not an easy one. The growing literature now lists hundreds of optimization methods. In the absence of clear theoretical guidance and conclusive empirical evidence, the decision is often made based on anecdotes. In this work, we aim to replace these anecdotes, if not with a conclusive ranking, then at least with evidence-backed heuristics. To do so, we perform an extensive, standardized benchmark of more than a dozen particularly popular deep learning optimizers while giving a concise overview of the wide range of possible choices. Analyzing almost 35,000 individual runs, we contribute the following three points: (i) Optimizer performance varies greatly across tasks. (ii) We observe that evaluating multiple optimizers with default parameters works approximately as well as tuning the hyperparameters of a single, fixed optimizer. (iii) While we can not discern an optimization method clearly dominating across all tested tasks, we identify a significantly reduced subset of specific algorithms and parameter choices that generally lead to competitive results in our experiments. This subset includes popular favorites and some lesser-known contenders. We have open-sourced all our experimental results, making them directly available as challenging and well-tuned baselines. This allows for more meaningful comparisons when evaluating novel optimization methods without requiring any further computational efforts."
+abstract_short = "We present an extensive, standardize benchmark of more than a dozen popular, contemporary deep learning optimizers."
+
+# Is this a featured publication? (true/false)
+featured = true
+
+# Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["deep-learning"]` references
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+# projects = ["internal-project"]
+
+# Tags (optional).
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = []
+
+# Links (optional).
+url_pdf = "https://uni-tuebingen.de/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2MTI5NjQ3NjUsImV4cCI6MTYxMzA1NDc2MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW5cL1VuaV9UdWViaW5nZW5cL0Zha3VsdGFldGVuXC9NYXROYXRcL0ZhY2hiZXJlaWNoZVwvSW5mb3JtYXRpa1wvTGVocnN0dWVobGVcL01ldGhNYXNjaExlcm5cL0Rva3VtZW50ZVwvcGFwZXJfcGRmXC9TY2htaWR0MjBhLnBkZiIsInBhZ2UiOjEzNDQ0Nn0.cWUOTl3ThUlF-Y3rxhfb2n5tAYsESZ-yBy3Xr_t05z8/Schmidt20a.pdf"
+url_preprint = "https://arxiv.org/abs/2007.01547"
+url_code = "https://github.com/SirRob1997/Crowded-Valley---Results"
+#url_dataset = "#"
+#url_project = "#"
+#url_slides = "#"
+#url_video = "#"
+#url_poster = "#"
+#url_source = "#"
+
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+<!-- url_custom = [{name = "OpenReview", url = "https://openreview.net/forum?id=rJg6ssC5Y7"}, {name = "Documentation", url = "https://deepobs.readthedocs.io/"}] -->
+
+# Digital Object Identifier (DOI)
+doi = ""
+
+# Does this page contain LaTeX math? (true/false)
+math = true
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+[image]
+  # Caption (optional)
+  # caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "TopLeft"
++++
