@@ -10,10 +10,10 @@ role = "PhD Student, Methods of Machine Learning"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Methods of Machine Learning, University of Tuebingen ", url = "https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/lehrstuehle/methods-of-machine-learning/" }, { name = "Max Planck Institute for Intelligent Systems", url = "https://is.mpg.de/" }, { name = "International Max Planck Research School for Intelligent Systems (IMPRS-IS)", url = "http://imprs.is.mpg.de/" }]
+organizations = [ { name = "Methods of Machine Learning, University of Tübingen ", url = "https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/lehrstuehle/methods-of-machine-learning/" }, { name = "Max Planck Institute for Intelligent Systems", url = "https://is.mpg.de/" }, { name = "International Max Planck Research School for Intelligent Systems (IMPRS-IS)", url = "http://imprs.is.mpg.de/" }]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "I am a Ph.D. student at the chair for Methods of Machine Learning at the University of Tuebingen."
+bio = "I am a Ph.D. student at the chair for Methods of Machine Learning at the University of Tübingen."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -28,7 +28,7 @@ interests = [
 # List qualifications (such as academic degrees)
 [[education.courses]]
   course = "Ph.D. in Computer Science"
-  institution = "University of Tuebingen and MPI for Intelligent Systems Tübingen"
+  institution = "University of Tübingen and Max Planck Institute for Intelligent Systems, Tübingen"
   year = "2017-2021"
 
 [[education.courses]]
@@ -66,13 +66,18 @@ interests = [
 
 [[social]]
   icon = "envelope"
-  icon_pack = "fas"
+  icon_pack = "far"
   link = "mailto:frank.schneider@tuebingen.mpg.de"
 
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
   link = "https://twitter.com/frankstefansch1"
+  
+[[social]]
+  icon = "semantic-scholar"
+  icon_pack = "ai"
+  link = "https://www.semanticscholar.org/author/Frank-Schneider/144223390"
 
 [[social]]
   icon = "google-scholar"
@@ -98,6 +103,6 @@ interests = [
 
 +++
 
-I am a Ph.D. student at the [Chair for the Methods of Machine Learning](https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/lehrstuehle/methods-of-machine-learning/ "Methods of Machine Learning")  (since September 2017) at the [University of Tuebingen](https://uni-tuebingen.de/en/ "University of Tübingen") as part of the [IMPRS-IS (International Max Planck Research School for Intelligent Systems)](http://imprs.is.mpg.de "IMPRS-IS") to work on optimization methods for machine learning. My work aims at riding the field of Deep Learning of annoying hyper-parameters and thus automate the training of Deep Neural Networks.
+I am a Ph.D. student at the [Chair for the Methods of Machine Learning](https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/lehrstuehle/methods-of-machine-learning/ "Methods of Machine Learning")  (since September 2017) at the [University of Tübingen](https://uni-tuebingen.de/en/ "University of Tübingen") as part of the [IMPRS-IS (International Max Planck Research School for Intelligent Systems)](http://imprs.is.mpg.de "IMPRS-IS") to work on optimization methods for machine learning. My work aims at riding the field of Deep Learning of annoying hyper-parameters and thus automate the training of Deep Neural Networks.
 
 Prior to joining the IMPRS-IS, I studied Simulation Technology (B.Sc. and M.Sc.) and Industrial and Applied Mathematics (M.Sc) at the University of Stuttgart and the Technische Universiteit Eindhoven respectively. My Master's thesis was on constructing preconditioners for Toeplitz matrices. This project was done at ASML (Eindhoven), a company developing lithography system for the semiconductor industry.

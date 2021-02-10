@@ -116,7 +116,7 @@ Numerical Methods for Evolutionary PDEs. """
   date_end = ""
   description = """Working on “Automating Deep Learning Optimization” at
 the Max Planck Institute for Intelligent Systems and the
-University of Tuebingen in the International Max Planck Research School for
+University of Tübingen in the International Max Planck Research School for
 Intelligent Systems (IMPRS-IS).
 Supervisor: Prof. Dr. Philipp Hennig """
 
