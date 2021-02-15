@@ -15,6 +15,7 @@ weight = 10
 
 +++
 
+- **February 2021:** Our work '**Cockpit: A Practical Debugging Tool for Training Deep Neural Networks**' is now on [ArXiv](https://arxiv.org/abs/2102.06604). In it, we present a new kind of debugger, specifically designed for training deep nets.
 - **Oktober 2020:** I have received a Top 10% Reviewer award for NeurIPS 2020.
 - **September 2020:** I have been distinguished as a Top Reviewer for ICML 2020.
 - **July 2020:** Our work '**Descending through a Crowded Valley - Benchmarking Deep Learning Optimziers**' is available on [ArXiv](https://arxiv.org/abs/2007.01547) presenting an extensive comparison of fifteen popular deep learning optimizers.
